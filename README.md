@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and everything computers.
 - 🌱 I’m currently learning HTML, CSS , JavaScript and C#
 - 💞️ I’m looking to collaborate on many projects and learn as much as possilbe.
-- 📫 How to reach me @c_gilbz1 on socials. 
+- 📫 How to reach me https://www.linkedin.com/in/coreyraygilbert/
 
 <!---
 GEEDORVH/GEEDORVH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
